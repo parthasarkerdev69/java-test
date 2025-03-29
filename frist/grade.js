@@ -15,5 +15,6 @@ else if (marks >= 60) {
 
 else{
     console.log("f");
+
 }
     
